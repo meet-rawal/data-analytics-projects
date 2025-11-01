@@ -52,7 +52,7 @@ I’m open to Data Analyst / Business Analyst internships and entry-level opport
 🌐 Connect with Me
 
 💼 LinkedIn Profile:
-📧 Email: [meetdata08@gmail.com]
+📧 Email: meetdata08@gmail.com
 💻 GitHub: github.com/meet-rawal
 
 ⭐ How to Use This Repo
