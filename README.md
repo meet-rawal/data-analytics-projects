@@ -24,6 +24,7 @@ Concepts: Data Cleaning, Data Analysis, Query Optimization, Problem Solving
 Project	Type	Description
 
 SQL Assignment 1
+
 	🗂️ SQL	Basic SQL operations on Employee Database – filtering, sorting, and aggregate queries.
 SQL Assignment 2
 
