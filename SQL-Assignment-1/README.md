@@ -16,18 +16,18 @@ DDL & DML Commands
 
 🔍 Key Tasks
 
-Created and managed an employee table.
+1.Created and managed an employee table.
 
-Executed queries to filter, sort, and analyze employee records.
+2.Executed queries to filter, sort, and analyze employee records.
 
-Applied aggregate functions, pattern matching (LIKE), and conditional filters (WHERE, BETWEEN, IN).
+3.Applied aggregate functions, pattern matching (LIKE), and conditional filters (WHERE, BETWEEN, IN).
 
-Extracted insights such as highest salary, total employees, and departmental filters.
+4.Extracted insights such as highest salary, total employees, and departmental filters.
 
 📈 Key Learnings
 
-Understanding of database creation and schema design.
+1.Understanding of database creation and schema design.
 
-Practical use of SQL clauses (SELECT, ORDER BY, COUNT, etc.).
+2.Practical use of SQL clauses (SELECT, ORDER BY, COUNT, etc.).
 
-Data extraction and filtering for business analysis.
+3.Data extraction and filtering for business analysis.
