@@ -11,6 +11,7 @@ This repository showcases my SQL and Python projects, built during my data analy
 Each project represents practical skills in database management, data manipulation, and analytical problem-solving.
 
 🧠 Tech Stack
+
 Programming: Python (Pandas, NumPy, Matplotlib)
 Databases: SQL
 Tools: MySql,Google Colab,Jupyter Notebook
